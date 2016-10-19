@@ -1,0 +1,16 @@
+{
+  "rollup_option": {
+    "entry": [
+      "src/js/*.js"
+    ]
+  },
+  "bundle_dev": {
+    "format": "iife",
+    "moduleName": "demo_app",
+    "sourceMap": "inline"
+  },
+  "bundle_production": {
+    "format": "iife",
+    "moduleName": "demo_app"
+  }
+}

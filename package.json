@@ -1,0 +1,60 @@
+{
+  "name": "hello-d3-chart-es6-gulp-rollup",
+  "version": "1.0.0",
+  "description": "hello-d3-chart-es6-gulp-rollup",
+  "main": "main.js",
+  "scripts": {
+    "build": "gulp build",
+    "release": "gulp ugly",
+    "start": "http-server ./build -p 3020 --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saun4app/hello-d3-chart-es6-gulp-rollup.git"
+  },
+  "author": "Saun Shewanown <saun4app@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "d3",
+    "v4",
+    "es6",
+    "ES2015",
+    "rollup.js",
+    "gulp",
+    "hello",
+    "w3css",
+    "responsive"
+  ],
+  "bugs": {
+    "url": "https://github.com/saun4app/hello-d3-chart-es6-gulp-rollup/issues"
+  },
+  "homepage": "https://github.com/saun4app/hello-d3-chart-es6-gulp-rollup#readme",
+  "dependencies": {
+    "d3": "^4.2.6",
+    "d3-selection": "^1.0.2",
+    "d3-selection-multi": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-es2015-rollup": "latest",
+    "gulp": "latest",
+    "gulp-htmlmin": "latest",
+    "gulp-rollup": "latest",
+    "gulp-sequence": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "http-server": "latest",
+    "rollup": "latest",
+    "rollup-plugin-babel": "latest",
+    "rollup-plugin-commonjs": "latest",
+    "rollup-plugin-eslint": "latest",
+    "rollup-plugin-gulp": "latest",
+    "rollup-plugin-json": "latest",
+    "rollup-plugin-multi-entry": "latest",
+    "rollup-plugin-node-globals": "latest",
+    "rollup-plugin-node-resolve": "latest",
+    "rollup-plugin-replace": "^1.1.1",
+    "rollup-plugin-uglify": "latest"
+  }
+}
