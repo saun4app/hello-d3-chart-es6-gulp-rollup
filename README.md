@@ -4,7 +4,7 @@
 - `d3.js` (v4)
 - `es6` (`ES2015`)
 - `rollup.js`
-- `gulp` (**without** `rollup.config.js`)
+- `gulp`
 - `w3css`
 - `responsive`
 
