@@ -153,9 +153,10 @@ export class D3BarChart {
                 "text-anchor": "end"
             },
             "parent_style_obj": {
-                "width": '100%',
-                "min-width": '10em',
-                "min-height": '14em'
+                "width": "100%",
+                "min-width": "10em",
+                "min-height": "16em",
+                "max-height": "28em"
             }
         };
     }
