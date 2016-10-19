@@ -1,22 +1,22 @@
-# hello-d3-chart-gulp-rollup
+# hello-d3-chart-es6-gulp-rollup
 
-`hello-d3-chart-gulp-rollup` provides an example of using the following to display text on the screen:
+`hello-d3-chart-es6-gulp-rollup` provides an example of using the following to display text on the screen:
 - `d3.js` (v4)
-- `d3kit.js`
 - `es6` (`ES2015`)
 - `rollup.js`
 - `gulp` (**without** `rollup.config.js`)
 - `w3css`
+- `responsive`
 
 #### Example
-<a href="https://saun4app.github.io/hello-d3-chart-gulp-rollup" target="_blank">
-    <img src="https://raw.github.com/saun4app/hello-d3-chart-gulp-rollup/master/demo-screen.png"
+<a href="https://saun4app.github.io/hello-d3-chart-es6-gulp-rollup" target="_blank">
+    <img src="https://raw.github.com/saun4app/hello-d3-chart-es6-gulp-rollup/master/demo-screen.png"
          alt="Demo screen"/>
 </a>
 
 #### Install
 ```
-$ git clone git@github.com:saun4app/hello-d3-chart-gulp-rollup.git demo-app
+$ git clone git@github.com:saun4app/hello-d3-chart-es6-gulp-rollup.git demo-app
 $ cd demo-app/
 $ npm install
 ```
@@ -46,7 +46,7 @@ $ http-server ./build -p 3020
 ```
 View the page on `http://localhost:3020/`
 <a href="https://saun4app.github.io/hello-d3-chart-rollup" target="_blank">
-    <img src="https://raw.github.com/saun4app/hello-d3-chart-gulp-rollup/master/demo-screen.png"
+    <img src="https://raw.github.com/saun4app/hello-d3-chart-es6-gulp-rollup/master/demo-screen.png"
          alt="Demo screen"/>
 </a>
 
