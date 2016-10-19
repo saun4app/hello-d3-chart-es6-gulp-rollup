@@ -45,7 +45,7 @@ or
 $ http-server ./build -p 3020
 ```
 View the page on `http://localhost:3020/`
-<a href="https://saun4app.github.io/hello-d3-chart-rollup" target="_blank">
+<a href="https://saun4app.github.io/hello-d3-chart-es6-gulp-rollup" target="_blank">
     <img src="https://raw.github.com/saun4app/hello-d3-chart-es6-gulp-rollup/master/demo-screen.png"
          alt="Demo screen"/>
 </a>
